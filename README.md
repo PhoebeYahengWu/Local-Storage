@@ -1,2 +1,2 @@
 # Local-Storage
-use local storage
+output local storage
